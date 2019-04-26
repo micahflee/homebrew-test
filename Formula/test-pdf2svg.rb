@@ -1,4 +1,4 @@
-class Pdf2svg < Formula
+class TestPdf2svg < Formula
   desc "PDF converter to SVG"
   homepage "http://www.cityinthesky.co.uk/opensource/pdf2svg"
   url "https://github.com/db9052/pdf2svg/archive/v0.2.3.tar.gz"
